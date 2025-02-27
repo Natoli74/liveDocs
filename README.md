@@ -14,11 +14,11 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/Natoli74/liveDocs.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [project-directory]
+   cd liveDocs
    ```
 3. Install the required dependencies:
    ```bash
